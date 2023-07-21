@@ -1,4 +1,4 @@
-# CodeClause_Gold_GOLD_PRICE_DETECTION
+# CodeClause_GOLD_PRICE_DETECTION
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 
