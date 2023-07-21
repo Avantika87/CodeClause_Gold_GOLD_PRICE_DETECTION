@@ -23,7 +23,7 @@ Before the hacknight, it is advised to have a ready-to-use toolchain and develop
 3️⃣ `Pandas`<br>
 4️⃣ `NumPy`<br>
 5️⃣ `Seaborn`<br>
-6️⃣ 'matplotlib.pyplot' <br>
+6️⃣ `matplotlib` <br>
 7️⃣ An environment to work in - something like  `colab` or `Jupyter` <br>
 
 
