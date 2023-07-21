@@ -37,18 +37,18 @@ Attribute Information:<br>
 1️⃣ `Date` <br>
 2️⃣ `SPX` <br>
 3️⃣ `GLD` <br>
-4️⃣ 'USO' <br>
-5️⃣ 'SLV' <br>
-6️⃣ 'EUR/USD'
+4️⃣ `USO` <br>
+5️⃣ `SLV` <br>
+6️⃣ `EUR/USD`<br>
 
 ## Machine Learning Model:
 
-1️⃣RANDOM FOREST
+1️⃣`RANDOM FOREST`
 
-# It is an ensemble learning algorithm capable of performing both regression and classification that combines several decision trees to make unique predictions.It includes random selection of data and features to train each tree individually.In classification tasks, the final prediction is made through majority voting, while in regression tasks, the predictions are averaged. It is best known for its:-
-**1.Robustness
-  2.Ability to handle large datasets
-  3.Provision of feature importance estimations.**
+ It is an ensemble learning algorithm capable of performing both regression and classification that combines several decision trees to make unique predictions.It includes random selection of data and features to train each tree individually.In classification tasks, the final prediction is made through majority voting, while in regression tasks, the predictions are averaged. It is best known for its:-
+1.Robustness
+2.Ability to handle large datasets
+3.Provision of feature importance estimations.**
   <img title="a title" alt="Alt text" src="[/images/boo.svg](https://serokell.io/files/vz/vz1f8191.Ensemble-of-decision-trees.png)https://serokell.io/files/vz/vz1f8191.Ensemble-of-decision-trees.png">
 
 
