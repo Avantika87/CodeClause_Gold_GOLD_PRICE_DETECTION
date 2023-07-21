@@ -23,8 +23,8 @@ Before the hacknight, it is advised to have a ready-to-use toolchain and develop
 3️⃣ `Pandas`<br>
 4️⃣ `NumPy`<br>
 5️⃣ `Seaborn`<br>
-6️⃣ 'matplotlib' <br>
-7️⃣ n environment to work in - something like  `colab` or Jupyter <br>
+6️⃣ 'matplotlib.pyplot' <br>
+7️⃣ An environment to work in - something like  `colab` or `Jupyter` <br>
 
 
 For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
