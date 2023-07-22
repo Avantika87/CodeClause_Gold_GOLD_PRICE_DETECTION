@@ -45,10 +45,16 @@ Attribute Information:<br>
 
 1️⃣`RANDOM FOREST`
 
- It is an ensemble learning algorithm capable of performing both regression and classification that combines several decision trees to make unique predictions.It includes random selection of data and features to train each tree individually.In classification tasks, the final prediction is made through majority voting, while in regression tasks, the predictions are averaged. It is best known for its:-
-1.Robustness
-2.Ability to handle large datasets
-3.Provision of feature importance estimations.**
-  <img title="a title" alt="Alt text" src="[/images/boo.svg](https://serokell.io/files/vz/vz1f8191.Ensemble-of-decision-trees.png)https://serokell.io/files/vz/vz1f8191.Ensemble-of-decision-trees.png">
+ It is an ensemble learning algorithm capable of performing both regression and classification that combines several decision trees to make unique predictions.It includes random selection of data and features to train each tree individually.In classification tasks, the final prediction is made through majority voting, while in regression tasks, the predictions are averaged. It is best known for its:-<br>
+1. Robustness<br>
+1. Ability to handle large datasets<br>
+1. Provision of feature importance estimations.<br>
+<br><br>
+ <p align="center">
+  <img src="https://github.com/Avantika87/CodeClause_Gold_GOLD_PRICE_DETECTION/assets/103835667/e7f18afc-df5e-4538-9a33-3c7916683237" width="600">
+
+  <hr>
+
+
 
 
